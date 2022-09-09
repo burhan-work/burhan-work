@@ -7,7 +7,7 @@
 
 ## Education:
 
-#### 1. [University of Mataram](https://unram.ac.id) | Bachelor of Mathematics | West Nusa Tenggara `2016-present`
+#### 1. [University of Mataram](https://unram.ac.id) | Bachelor of Mathematics | West Nusa Tenggara ``
   - Founder and Organization Deliberations Council of OPTION (Writing English Debate Community)
 
  #### 2. [SMA N 1 Alas](https://sman1alas.sch.id) | IPA | Sumbawa `2013-2016`

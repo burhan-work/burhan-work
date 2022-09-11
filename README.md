@@ -13,7 +13,7 @@
  #### 2. [SMA N 1 Alas](https://sman1alas.sch.id) | IPA | Sumbawa `2013-2016`
 
 ## Experience:
-#### 1. [BPK RI Perwakilan Provisi Nusa Tenggara Barat](https://ntb.bpk.go.id) | Internship as assistant head of general and information technology sub-section | West Nusa Tenggara `Jan'2020 - Feb'2020`
+#### 1. [BPK RI Perwakilan Provinsi Nusa Tenggara Barat](https://ntb.bpk.go.id) | Internship as assistant head of general and information technology sub-section | West Nusa Tenggara `Jan'2020 - Feb'2020`
 #### 2. [Universiti Putra Malaysia](https://upm.edu.my) | Student Research | Putrajaya `2019-2019`
 ---
 

@@ -1,4 +1,4 @@
-# Hi there, I am Burhan  👋[burhan-web](https://burhan-web.netlify.app/)
+# Hi there, I am [Burhan](https://burhan-web.netlify.app/) 👋
 ## About me:
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript and React JS
 - 👯 I’m looking to collaborate as Front-End Developer

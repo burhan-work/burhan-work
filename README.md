@@ -1,4 +1,4 @@
-# Hi there, I am [Burhan](https://wondrous-sable-a3ef71.netlify.app/) 👋
+# Hi there, I am [Burhan]() 👋
 ## About me:
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript and React JS
 - 👯 I’m looking to collaborate as Front-End Developer
